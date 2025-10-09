@@ -24,7 +24,8 @@
         "random": "cpp",
         "ostream": "cpp",
         "*.tcc": "cpp",
-        "iosfwd": "cpp"
+        "iosfwd": "cpp",
+        "iomanip": "cpp"
     },
     "C_Cpp.errorSquiggles": "disabled"
 }
