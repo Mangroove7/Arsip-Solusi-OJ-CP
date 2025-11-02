@@ -15,7 +15,7 @@ void solve() {
     if(dupl_a == a || k > 1) cout << "YES\n";
     else cout << "NO\n";
 }
-
+//a
 int main() {
     ios::sync_with_stdio(false);
     cin.tie(nullptr);
