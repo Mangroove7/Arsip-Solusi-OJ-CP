@@ -1,0 +1,32 @@
+1. c
+2.e
+Ulasan
+Pada soal no. 1, perhatikan bahwa "9 * 9" adalah string, sehingga akan dicetak apa adanya.
+
+Hanya ada satu baris yang tercetak, karena hanya ada satu std::endl.
+
+Pada soal no. 2, nilai 
+42
+42 (bilangan) dan "42" (string) akan sama-sama tercetak sebagai 42, begitu pula ekspresi 
+40
++
+11
+/
+(
+5
+−
+1
+)
+40+11/(5−1) (yang menghasilkan nilai 
+40
++
+11
+/
+4
+=
+40
++
+2
+=
+42
+40+11/4=40+2=42).
