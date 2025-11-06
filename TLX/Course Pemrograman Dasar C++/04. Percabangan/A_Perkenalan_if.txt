@@ -1,0 +1,19 @@
+1.a
+2.b
+3.c
+Ulasan
+Pada soal no. 1, terdapat sebuah percabangan if. Kondisinya bernilai benar ✅.
+
+Sehingga, kode di dalamnya dijalankan.
+Pada soal no. 2, terdapat sebuah percabangan if. Kondisinya bernilai salah ❌.
+
+Sehingga, kode di dalamnya TIDAK dijalankan.
+Pada soal no. 3, terdapat tiga buah percabangan if:
+
+Pada if pertama, kondisinya bernilai salah ❌.
+Sehingga, kode di dalamnya TIDAK dijalankan.
+Pada if kedua, kondisinya bernilai benar ✅.
+Sehingga, kode di dalamnya dijalankan.
+Pada if ketiga, kondisinya bernilai benar ✅.
+Sehingga, kode di dalamnya dijalankan.
+Selanjutnya, kita akan coba gunakan struktur percabangan if ini pada soal berikutnya.
