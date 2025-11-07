@@ -1,0 +1,4 @@
+1.c x adalah 0
+    x adalah non-negatif
+2.b x adalah non-negatif
+3.d tidak ada keluaran yang dihasilkan
