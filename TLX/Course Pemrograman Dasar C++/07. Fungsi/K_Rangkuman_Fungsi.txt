@@ -1,0 +1,8 @@
+1.20
+2.60
+fungsi misteri merupakan fungsi yang mengalikan 10 tiap elemen
+pada vektor
+//vektor merupakan array versi lebih canggih dengan fitur dinamisnya
+pada loop for , statementnya menggunakan style for-each yang menghitung/looping
+dari awal sampai akhir elemen pada loop for total ditambah dengan tiap elemen pada vektor/array
+sehingga loop ini bermaksud untuk menghitung total nilai dari vector array
