@@ -1,0 +1,3 @@
+g++.exe (GCC) 15.1.0
+
+//copas baris pertama dari terminal mu setelah perintah g++ --version
