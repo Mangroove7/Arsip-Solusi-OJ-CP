@@ -31,13 +31,16 @@ Tujuan utama repo ini adalah:
 
 ## 📂 Struktur Folder
 
-Untuk mempermudah navigasi, berikut adalah platform OJ yang ada di repo ini:
+Untuk mempermudah navigasi, repo ini dibagi menjadi beberapa direktori utama:
 
-* `./CodeForces`: Kumpulan solusi dari platform CodeForces.
-* `./TLX`: Kumpulan solusi dari TOKI Learning Center (TLX).
-* `./cses`: Kumpulan solusi dari CSES Problem Set.
-* `./VJudge`: Kumpulan solusi dari VJudge.
-* *(Dan platform lainnya)*
+* **Platform OJ (Online Judge):**
+    * `./CodeForces`: Kumpulan solusi dari platform CodeForces.
+    * `./TLX`: Kumpulan solusi dari TOKI Learning Center (TLX).
+    * `./cses`: Kumpulan solusi dari CSES Problem Set.
+    * `./VJudge`: Kumpulan solusi dari VJudge.
+    * *(Dan platform lainnya)*
+* **Pelajaran & Template Algoritma:**
+    * `./algo_list`: Berisi kumpulan *template* dan implementasi algoritma dasar yang sering digunakan dalam CP (contoh: *Sieve of Eratosthenes*, Pengecekan Bilangan Prima, dll.).
 
 ## ⚠️ Peringatan Penting
 
