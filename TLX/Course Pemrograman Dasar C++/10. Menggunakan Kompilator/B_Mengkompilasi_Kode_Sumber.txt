@@ -1,0 +1,4 @@
+1.8 
+2.d (tidak ada keluaran apapun)
+
+//no.1 lihat baris paling atas yang diberitahu kompilator yaitu 8
