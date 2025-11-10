@@ -1,0 +1,22 @@
+1. ejgwf
+2. terimakasihsemogakursusinibermanfaat
+
+//pada nomor 2 jika kita coba-coba maka saat k = 15 kita mendapat jawaban yang benar
+
+PENGUMUMAN :
+/*Ini adalah akhir dari solusi yang saya berikan.
+
+ saya marathon full course ini disela-sela waktu.
+
+mulai dari 0 selama 5 hari (93 soal dalam 5 hari artinya rerata saya mengerjakan 18-19 soal perhari intensif)
+terimakasih sudah membaca solusi saya sampai saat ini.
+
+jangan lupa untuk memberi bintang pada repo ini ataupun memberi saran/kritik melalui issue
+semoga teman-teman sukses dalam pembelajarannya
+
+Oiya SEMUA SOLUSI PADA COURSE INI 100% MURNI DARI SAYA DAN DISAAT PROSES PENGERJAAN DALAM 5 HARI ITU JUGA SAYA KERJAKAN
+artinya saya mengerjakan benar-benar dari 0 , bukan langsung copas dari akun utama saya
+tapi saya membuat akun baru untuk saya grinding brutal.
+
+bye sampai jumpa di course solusi Pemrograman Kompetitif Dasar :D
+*/
