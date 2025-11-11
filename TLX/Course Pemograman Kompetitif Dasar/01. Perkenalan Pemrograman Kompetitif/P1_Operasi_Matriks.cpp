@@ -1,8 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-
-
 //fungsi refleksi horizontal
 vector <vector <int>> hor(vector <vector <int>> a,int n,int m){
     vector <vector <int>> b(n, vector <int>(m));
@@ -43,9 +41,8 @@ vector <vector <int>> rot180(vector <vector <int>> a,int n,int m){
     vector <vector <int>> b(m, vector <int>(n));
 
     b = rot90(a,n,m);
-    vector <vector <int>> c(n, vector <int>(m));
-    c = rot90(b,m,n);
-    return c;
+    b = rot90(b,m,n);
+    return b;
 }
 
 //rotasi 270 derajat
@@ -53,10 +50,9 @@ vector <vector <int>> rot270(vector <vector <int>> a,int n,int m){
     vector <vector <int>> b(n, vector <int>(m));
 
     b = rot180(a,n,m);
-    vector <vector <int>> c(m, vector <int>(n));
-    c = rot90(b,n,m);
+    b = rot90(b,n,m);
 
-    return c;
+    return b;
 }
 
 vector <vector<int>> operasi(string s,vector <vector <int>> a,int n,int m){
